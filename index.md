@@ -36,7 +36,13 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 # 5.2 Questions 
 
+ * What do you think of investments being made in protection versus investments being made in technology education? Are digital fears expanding digital divide?
 
+ * How does someone empower themself in a digital world?
+
+ * How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
+
+ * Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 
 ### Jekyll Themes
 
