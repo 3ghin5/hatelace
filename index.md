@@ -28,6 +28,16 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+# 5.1 Questions
+
+ * Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+
+ * Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+
+# 5.2 Questions 
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3ghin5/hatelace/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
