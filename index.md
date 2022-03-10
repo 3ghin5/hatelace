@@ -32,6 +32,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
  * Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 
+### Beneficial
+
+1. Development of computing accelerates speeds at which calculations are made, and allows us to do complicated calculations quickly.
+2. Computing allows us to be more connected across the world, for information to travel quicker, and spreads globalism. We can remain up to date on current events as they unfold.
+3. 
+
  * Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
 
 # 5.2 Questions 
