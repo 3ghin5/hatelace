@@ -41,19 +41,30 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Harmful
 
 1. Increased reliance on computers opens up vulnerabilities and liabilities that could grind society to a halt if these systems fail, due to m like a solar storm or a cyberattack.
+2. Development of computers can lead to people staying indoors more, causing health effects from an imbalance of chemicals released into the body.
+3. Computers and online communication can decrease face to face communication, which is an important skill that requires continuous practice.
+
  * Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
 
-
+I don't think computers cause real dopamine issues. Games can provide satisfaction and fun but I haven't experienced anything that's close to addiction. The amount of distractions provided by the devices does impact me quite a bit, productivity-wise however. For example, oftentimes homework only takes a few hours to do, but I end up staying up late because I have been off doing irrelevant things instead of doing homework.
 
 # 5.2 Questions 
 
  * What do you think of investments being made in protection versus investments being made in technology education? Are digital fears expanding digital divide?
 
+I think investments made in technology education automatically contribute to students' sense of digital safety. Being more knowledgablle and more aware of the internet around them empowers them to protect themselves. More and more investment in protection can only bog down what needs to get done and unnecessary restrictions.
+
  * How does someone empower themself in a digital world?
+
+Being empowered, a citizen can confidently build upon existing knowledge and use it to its fullest extent. This starts with increasing access to the digital world to begin with, and having a foundational knowledge of the digital world.
 
  * How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
 
+Someone that is empowered could help the other by keeping them up to date on optimal methods and useful technologies to what they are doing. More importantly, providing access to technology that is capable of doing what needs to be done, such as making computers at libraries more accessible, etc.
+
  * Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+
+Here I take red tape as intended restrictions imposed on another, and paper as literal use of paper. Paper is a useful resource and is more versatile tool than technology sometimes, when you need to solve complex equations quickly and accurately, or when you need to draw something. An example of red tape is the problem of poverty and such preventing access to technology. Especially for the homeless and formerly incarcerated people, who cannot even get a job to get their lives back on track, this is a serious issue. At Del Norte, though, I am not aware of any of these issues. 
 
 ### Jekyll Themes
 
