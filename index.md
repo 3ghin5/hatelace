@@ -2,7 +2,7 @@
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-# 5.1 Questions
+## 5.1 Questions
 
  * Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 
@@ -22,7 +22,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 I don't think computers cause real dopamine issues. Games can provide satisfaction and fun but I haven't experienced anything that's close to addiction. The amount of distractions provided by the devices does impact me quite a bit, productivity-wise however. For example, oftentimes homework only takes a few hours to do, but I end up staying up late because I have been off doing irrelevant things instead of doing homework.
 
-# 5.2 Questions 
+## 5.2 Questions 
 
  * What do you think of investments being made in protection versus investments being made in technology education? Are digital fears expanding digital divide?
 
