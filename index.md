@@ -2,6 +2,8 @@
 
 ### [TPT Notes](https://3ghin5.github.io/hatelace/tpt.html)
 
+### [TT10 Menu Python Code](https://replit.com/@3ghin5/THEmatrix#main.py)
+
 ### [Create Task Documentation](https://3ghin5.github.io/hatelace/createTask.html)
 
 ### [Data Structures Project Documentation](https://3ghin5.github.io/hatelace/dataStructures.html)
