@@ -2,7 +2,9 @@
 
 Replit embed at [bottom of page](https://3ghin5.github.io/hatelace/dataStructures.html#Replit)
 
-### Notes goes here
+### Print function
+
+$ print() 
 
 ## Replit
 
