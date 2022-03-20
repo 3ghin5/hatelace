@@ -4,7 +4,13 @@ Replit embed at [bottom of page](https://3ghin5.github.io/hatelace/dataStructure
 
 ### Print function
 
-$ print() 
+ * The field in ` print()` can be left blank to use as a line break when writing into The Console
+
+ * Additionally, the parameter `end` as in `print(x, end=" ")` can be used to have the print statement end with something, like a space. Not sure how this is used since I can just add a space at the end of a print command though. 
+
+### Exit
+
+ * `exit()` can be used to exit `while` loops.
 
 ## Replit
 
