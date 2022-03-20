@@ -40,6 +40,44 @@ Someone that is empowered could help the other by keeping them up to date on opt
 
 Here I take red tape as intended restrictions imposed on another, and paper as literal use of paper. Paper is a useful resource and is more versatile tool than technology sometimes, when you need to solve complex equations quickly and accurately, or when you need to draw something. An example of red tape is the problem of poverty and such preventing access to technology. Especially for the homeless and formerly incarcerated people, who cannot even get a job to get their lives back on track, this is a serious issue. At Del Norte, though, I am not aware of any of these issues. 
 
+## 5.3 Questions
+
+Watch the video... HP computers are racist
+Come up with some thoughts on the video and be ready to discuss them as I call on you. Here are some ideas...
+Does the owner of the computer think this was intentional?
+
+ * Not really.
+
+If yes or no, justify you conclusion.
+
+ *  He was criticizing the computer and its company while documenting a problem, however he seems to consider this an embarrassing oversight instead of a deliberate negligence.
+
+How do you think this happened?
+
+ * I think the team that developed this feature used a predominantly lighter skinned sample to train the AI. The contrast due to the dark shade of skin that the African person has may impact the ability of the software to recognize facial features too.
+
+Is this harmful? Was it intended to be harmful or exclude?
+
+ * This is harmful, since a portion of HP customers can't use one of their cutting edge (for the time) features, based on their skin color, which is unfair. Although, this was not intended to be harmful or exclude a certain populace.
+
+Should it be corrected?
+
+ * Since this is a bug in the software it should be corrected. 
+
+What would you or should you do to produce a better outcome?
+
+ * Find a more diverse sample to train the algorithm with.
+
+## 5.4 Questions
+
+CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+
+ * We could survey all 150 students and ask for their advice on how to do well in APCSP, or just high school in general, and assemble a guide based on all of their opinions and advice. This would be initiated by having a Google Form as an exit ticket in one of our weekly canvas assignments.
+
+What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+
+ * Del Norte crowdsourcing (Like in AP Stats) would provide a more diverse sample size than just those who enjoy computer science, and crowdsourcing would help our final project by testing out features or getting feedback and data.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3ghin5/hatelace/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
