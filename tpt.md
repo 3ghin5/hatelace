@@ -78,6 +78,27 @@ What about Del Norte crowdsourcing? Could your final project be better with crow
 
  * Del Norte crowdsourcing (Like in AP Stats) would provide a more diverse sample size than just those who enjoy computer science, and crowdsourcing would help our final project by testing out features or getting feedback and data.
 
+## 5.5 Questions
+
+<div class="tenor-gif-embed" data-postid="22397278" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/miss-minutes-issste-miss-minutes-issste-holi-gif-22397278">Miss Minutes GIF</a>from <a href="https://tenor.com/search/miss-gifs">Miss GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+Make a license for your personal and Team project. Document license you picked and why.
+
+## 5.6 Questions
+
+Describe PII you have seen on project in CompSci Principles.
+
+What are your feelings about PII and your exposure?
+
+Describe good and bad passwords? What is another step that is used to assist in authentication.
+
+Try to describe Symmetric and Asymmetric encryption.
+
+Provide and example of encryption we used in deployment.
+
+Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3ghin5/hatelace/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
