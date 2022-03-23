@@ -80,22 +80,35 @@ What about Del Norte crowdsourcing? Could your final project be better with crow
 
 ## 5.5 Questions
 
-<div class="tenor-gif-embed" data-postid="22397278" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/miss-minutes-issste-miss-minutes-issste-holi-gif-22397278">Miss Minutes GIF</a>from <a href="https://tenor.com/search/miss-gifs">Miss GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+
+ * Creative Commons Zero v1.0 Universal: releases your work to the public domain; anyone can use it without paying royalties 
+ * Open Source GPL: the work and all derivative works HAVE to be open source
+ * Open Source MIT: the work and all derivative works can be used wherever and can be redistributed freely, but it has to stay closed source.
+
 Make a license for your personal and Team project. Document license you picked and why.
+
+
 
 ## 5.6 Questions
 
 Describe PII you have seen on project in CompSci Principles.
 
+ * Login pages require a username and password
+
 What are your feelings about PII and your exposure?
+
+
 
 Describe good and bad passwords? What is another step that is used to assist in authentication.
 
 Try to describe Symmetric and Asymmetric encryption.
 
+ * From what I remember, symmetric encryption uses the same key to encrypt and decrypt data, while in asymmetric encryption different keys are used for encrypting and decrypting.
+
 Provide and example of encryption we used in deployment.
+
+ 
 
 Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
 
