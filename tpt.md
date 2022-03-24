@@ -88,7 +88,7 @@ When you create a GitHub repository it requests a license type. Review the licen
 
 Make a license for your personal and Team project. Document license you picked and why.
 
-
+ * We used the Open Source GPL. It was recommended to us and we also don't have anything worth copyrighting on here.
 
 ## 5.6 Questions
 
@@ -98,9 +98,11 @@ Describe PII you have seen on project in CompSci Principles.
 
 What are your feelings about PII and your exposure?
 
-
+ * While it is useful to store user information and progress on a webpage, it should not record any information beyond the minimum needed.
 
 Describe good and bad passwords? What is another step that is used to assist in authentication.
+
+ * Good passwords are random and long, use a wide variety of letters, symbols and numbers; while bad passwords are common and guessed easily. 
 
 Try to describe Symmetric and Asymmetric encryption.
 
@@ -108,9 +110,11 @@ Try to describe Symmetric and Asymmetric encryption.
 
 Provide and example of encryption we used in deployment.
 
- 
+ * 
 
 Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+
+ * I have never been phished, but the most common techniques involve disguising a phishing email as a legitimate email from Amazon or UPS. 
 
 ### Jekyll Themes
 
