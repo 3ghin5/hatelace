@@ -14,8 +14,7 @@ def fib_seq(n):
     
     print(0)
     helper(1, 1, 0)
-  
-        
+    
 def print_fibo(n):
     try:
         fib_seq(n)
