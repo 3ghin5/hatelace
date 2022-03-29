@@ -14,3 +14,18 @@ def fib_seq(n):
     
     print(0)
     helper(1, 1, 0)
+    
+def print_fibo(n):
+    try:
+        fib_seq(n)
+    except:
+        print("Invalid n")
+
+
+def tester():
+  while True:
+    f = input('Which Fibonacci number to go up to?: ')
+    print_fibo(int(f)-1)
+
+
+tester()
