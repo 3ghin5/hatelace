@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 # Data Structures Documentation
 
 Replit embed at [bottom of page](https://3ghin5.github.io/hatelace/dataStructures.html#Replit)
