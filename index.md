@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 # William's Index Page
 
 ### [TPT Notes](https://3ghin5.github.io/hatelace/tpt.html)
