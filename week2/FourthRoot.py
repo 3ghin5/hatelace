@@ -1,4 +1,7 @@
 class ForthrtCalculator:
+  def __init__(self):
+    self.sqrts = []
+    
   def __call__(self, n):
     if n < 0:
       raise Exception("No negative numbers")
@@ -11,8 +14,6 @@ class ForthrtCalculator:
 
 def tester():
   fourthrt_calc = ForthrtCalculator()
-  while True:
-    x = int(input("Enter a number: "))
-    print(f"OOP says the square root of {x} is {fourthrt_calc(x)}")
+  x = int(input("Enter a number: "))
+  print(f"OOP says the fourth root of {x} is {fourthrt_calc(x)}")
 
-tester()
