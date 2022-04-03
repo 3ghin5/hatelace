@@ -53,7 +53,7 @@ class Factorial:
 f = Factorial() #Creating an instance of the class
 f(5) #Calling on the instance like it was a function. So here it would print 120.
 ```
- * Another thing I learned is that a variable to be used throughout a class has to be have a prefix of `self.` as in `self.result` or else it wouldn't work. The methods wouldn't be able to use the variable declared inside the class but outside the method and variables wouldnt otherwise be interchanged between methods. for example if I did `def __init__: x=1` and tried to use it in `def __call__: x = x+1` it wouldn't find `x`. I'd have to call it `self.x`.
+ * Another thing I learned is that a variable to be used throughout a class has to be have a prefix of `self.` as in `self.result` or else it wouldn't work. The methods wouldn't be able to use the variable declared inside the class but outside the method and variables wouldnt otherwise be interchanged between methods. for example if I did `def __init__: x=1` and tried to use it in `def __call__: x = x+1` it wouldn't find `x`. I'd have to call it `self.x`. I had to figure this one out in order to make my OOP Fibonacci work- was confused for the longest time!
 
 ## Replit
 
