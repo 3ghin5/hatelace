@@ -55,6 +55,26 @@ f(5) #Calling on the instance like it was a function. So here it would print 120
 ```
  * Another thing I learned is that a variable to be used throughout a class has to be have a prefix of `self.` as in `self.result` or else it wouldn't work. The methods wouldn't be able to use the variable declared inside the class but outside the method and variables wouldnt otherwise be interchanged between methods. for example if I did `def __init__: x=1` and tried to use it in `def __call__: x = x+1` it wouldn't find `x`. I'd have to call it `self.x`. I had to figure this one out in order to make my OOP Fibonacci work- was confused for the longest time!
 
+### Function parameters
+
+ * If I define a variable in the function name then it will default to that definition, unless otherwise specified. 
+
+```python
+
+def Function(x=69, y=420):
+    print(str(x+y))
+
+# Will use 30 as x, and 30 as y.
+Function(30, 30)
+
+# Will use 69 as x, and 420 as y.
+Function()
+```
+
+### .format()
+
+ * You can insert variables into strings I think by including a int or something in the parameter of `.format` and then having these {} in a string.
+
 ## Replit
 
 <iframe frameborder="0" width="100%" height="1500px" src="https://replit.com/@3ghin5/MENU?lite=true"></iframe>
