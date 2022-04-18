@@ -223,19 +223,27 @@ The setTimerLengths procedure sets the list timerLengths with the values the use
 ### Provide a written response that does all three of the following:
 Approx. 200 words (for all subparts of 3d combined)
  * Describes two calls to the procedure identified in written response 3c. Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute.
+
 First call:
+
 Clicking the start button without inputting values for custom timer lengths
+
 Second call:
+
 Filling out the input boxes, clicking Set Lengths, then clicking the start button. 
 
  * Describes what condition(s) is being tested by each call to the
 procedure
 Condition(s) tested by the first call: 
+
 When the input boxes are left empty and the timer lengths are not specified by the user. In this instance, the function setTimerLengths() is not being ran.
+
 Condition(s) tested by the second call: 
+
 The inputs are used to set the timers’ lengths; setTimerLengths() is run before the timer() function itself.
 
  * Identifies the result of each call
+ 
 Result of the first call:
 The timers use the default settings of 25 minutes, 5 minutes, 25 minutes, 5 minutes, 25 minutes, 5 minutes, 25 minutes, and 30 minutes.
 Result of the second call: The timers use the custom settings of whatever the user inputs. 
