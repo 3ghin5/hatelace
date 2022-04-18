@@ -1,5 +1,4 @@
 from numpy import *
-import funcy
 
 from week0 import cloud, ChristmasTree, numpad, swap
 from week1 import dictionaries, factorials, fibonacci, fibonacci2

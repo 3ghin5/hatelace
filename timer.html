@@ -42,7 +42,7 @@
 
 
     // Code below is based off timer tutorial code from W3Schools: https://www.w3schools.com/howto/howto_js_countdown.asp
-    let DEEZnuts = 0;
+    let TimerID = 0;
     function timer(time) {
       document.getElementById('2').setAttribute("hidden","")
       console.log("function started")
@@ -58,8 +58,8 @@
       // Update the count down every 1 second
       let x = setInterval(function () {
 
-        console.log("async function loop started with Timer ID (DEEZnuts): " +
-                DEEZnuts + " // Timer countdown time (SISTERS): " + SISTERS)
+        console.log("async function loop started with Timer ID (TimerID): " +
+                TimerID + " // Timer countdown time (SISTERS): " + SISTERS)
         // Get today's date and time
         let now = new Date().getTime();
 
@@ -79,7 +79,7 @@
                 + minutes + "m " + seconds + "." + yourMOM + " s   " ;
 
 
-        SISTERS = timerLengths[DEEZnuts]
+        SISTERS = timerLengths[TimerID]
 
         // If the count down is finished, write some text
         if (distance <= 0) {
@@ -87,20 +87,20 @@
 
 
 
-          if(DEEZnuts==1 || DEEZnuts==3 || DEEZnuts==5 || DEEZnuts==7 ){
+          if(TimerID==1 || TimerID==3 || TimerID==5 || TimerID==7 ){
             document.getElementById('display').innerText = "ITS TIME FOR A BREAK SISTERS!!"
             document.getElementById('1').removeAttribute("hidden")
 
           }
-          if(DEEZnuts==0 || DEEZnuts==2 || DEEZnuts==4 || DEEZnuts==6 || DEEZnuts==8){
+          if(TimerID==0 || TimerID==2 || TimerID==4 || TimerID==6 || TimerID==8){
             document.getElementById('display').innerText= "GET TO WORRKKKK"
             document.getElementById('1').setAttribute("hidden", "")
           }
-          DEEZnuts = DEEZnuts + 1;
-          document.getElementById("debuginfo").innerHTML = "Timer ID (DEEZnuts): " +
-                  DEEZnuts + " // Timer countdown time (SISTERS): " + SISTERS;
-          if (DEEZnuts==8){
-            DEEZnuts = 0;
+          TimerID = TimerID + 1;
+          document.getElementById("debuginfo").innerHTML = "Timer ID (TimerID): " +
+                  TimerID + " // Timer countdown time (SISTERS): " + SISTERS;
+          if (TimerID==8){
+            TimerID = 0;
           }
           clearInterval(x);
           timer(SISTERS);
