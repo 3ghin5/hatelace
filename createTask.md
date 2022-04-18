@@ -22,7 +22,7 @@ Additional inputs include a debug mode, where the multiplier (default is set to 
 
  * The first program code segment must show how data have been
 stored in the list.
-```python
+```java
 const timerLengths = [25,5,25,5,25,5,25,30]
 function setTimerLengths(){
 
@@ -37,7 +37,7 @@ function setTimerLengths(){
 same list being used, such as creating new data from the existing
 data or accessing multiple elements in the list, as part of fulfilling
 the program’s purpose.
-```python
+```java
 // Code below is based off timer tutorial code from W3Schools: https://www.w3schools.com/howto/howto_js_countdown.asp
 let DEEZnuts = 0;
 function timer(time) {
@@ -128,7 +128,7 @@ procedure that:
 on the functionality of the procedure
  *  * Implements an algorithm that includes sequencing, selection,
 and iteration
-```python
+```java
 const timerLengths = [25,5,25,5,25,5,25,30]
 function setTimerLengths(){
 
