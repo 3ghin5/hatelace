@@ -121,9 +121,9 @@ Describe a phishing scheme you have learned about the hard way. Describe some ot
 
 ### Finals MCQ Correctiions
 
-1. The number of statements in a program usually has less effect on how long the program takes to run. Thus the answer is B.
+ （1）. The number of statements in a program usually has less effect on how long the program takes to run. Thus the answer is B.
 
-23. A public key, as the name suggests, is public and can be accessed by anyone so they can recieve encrypted information on the internet. Instead the answer is A, the browser cookies. These often collect and store lots of personal data about the user, leading to a compromise of privacy.
+ （23）. A public key, as the name suggests, is public and can be accessed by anyone so they can recieve encrypted information on the internet. Instead the answer is A, the browser cookies. These often collect and store lots of personal data about the user, leading to a compromise of privacy.
 
 ### Jekyll Themes
 
