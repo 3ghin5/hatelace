@@ -131,6 +131,14 @@ Describe a phishing scheme you have learned about the hard way. Describe some ot
 
 * **Score: 50/50**
 
+### Finals MCQ 3
+
+* **Score 46/50**
+* (18) The procedure traverses this list and eventually encounters the positive value 1. At this point, the procedure returns true when it should return false because the list does not contain only positive values. My answer was wrong because it would return true, when its supposed to. 
+* (32) 15 would not exceed the 4 bit integer limit
+* (41) In public cryptography, a message is encrypted with a recipient’s public key and decrypted with the recipient’s private key
+* (35) If the album was purchased and downloaded through a licensed music store, the user will not be in violation of the DMCA.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3ghin5/hatelace/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
