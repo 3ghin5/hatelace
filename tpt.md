@@ -139,6 +139,11 @@ Describe a phishing scheme you have learned about the hard way. Describe some ot
 * (41) In public cryptography, a message is encrypted with a recipient’s public key and decrypted with the recipient’s private key
 * (35) If the album was purchased and downloaded through a licensed music store, the user will not be in violation of the DMCA.
 
+### Finals MCQ 5
+
+* **Score: 49/50**
+* (18) Public key encryption is secure and uses a public key and a private key to encode and decode a message, respectively.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3ghin5/hatelace/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
